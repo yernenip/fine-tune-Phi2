@@ -8,4 +8,4 @@ For more detailed explanation of the notebook, you can refer to the blog below.
 
 https://medium.com/@yernenip/optimizing-phi-2-a-deep-dive-into-fine-tuning-small-language-models-9d545ac90a99
 
-[License](#license)
+[License](license)
